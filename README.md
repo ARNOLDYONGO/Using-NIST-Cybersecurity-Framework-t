@@ -23,4 +23,4 @@ To detect new unauthorized access attacks in the future, the team will use a fir
 The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services.
 
 ### Recover
-The team will recover the deleted data by restoring the database from the previous verified backup. We also informed the users that the system will be restored gradually to avoid cloud misconfiguration.
+The team will recover the deleted data by restoring the database from the previous verified backup. We also informed the users that the system will be restored gradually to avoid cloud misconfiguration. This will help in hardening the OS from future attacks.
